@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="raw_audio_files">
+        <item>@raw/lagu</item>
+        <item>@raw/lagu2</item>
+        <!-- Add more raw audio files as needed -->
+    </array>
+    <array name="judul_lagu">
+        <item>Lagu 1</item>
+        <item>Lagu 2</item>
+        <!-- Add more song titles as needed -->
+    </array>
+</resources>
